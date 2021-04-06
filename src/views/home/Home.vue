@@ -45,6 +45,7 @@ export default {
       top: 0;
     }
     .nav-bar{
+        color: aliceblue;
         background-color: rgb(245, 101, 130);   
     }
 </style>
